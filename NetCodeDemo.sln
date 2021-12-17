@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCodeDemo", "NetCodeDemo\NetCodeDemo.csproj", "{6DCCF466-AC57-42BC-8C47-BE8CCA79DB92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCodeDemo", "NetCodeDemo\NetCodeDemo.csproj", "{CF800441-1077-4C12-BDD9-8E27D1F6BB67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6DCCF466-AC57-42BC-8C47-BE8CCA79DB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6DCCF466-AC57-42BC-8C47-BE8CCA79DB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6DCCF466-AC57-42BC-8C47-BE8CCA79DB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6DCCF466-AC57-42BC-8C47-BE8CCA79DB92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF800441-1077-4C12-BDD9-8E27D1F6BB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF800441-1077-4C12-BDD9-8E27D1F6BB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF800441-1077-4C12-BDD9-8E27D1F6BB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF800441-1077-4C12-BDD9-8E27D1F6BB67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6360BCE7-FD26-406A-BBB1-F8A3F5ACE9E0}
+		SolutionGuid = {37BA85FB-AF53-474D-AD27-62939AAAC001}
 	EndGlobalSection
 EndGlobal
